@@ -2,7 +2,7 @@ markdown
 # K8s + GPU Learning Notes
 
 ## Learning Objectives
-- [ ] K3s installation
+- [ ] K8s installation
 - [ ] NVIDIA driver + Container Toolkit
 - [ ] NVIDIA Device Plugin deployment
 - [ ] GPU Pod scheduling
